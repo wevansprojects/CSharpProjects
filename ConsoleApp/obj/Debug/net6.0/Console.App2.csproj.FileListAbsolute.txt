@@ -1,0 +1,15 @@
+/home/williamevans/Scripts/CSharpProjects/ConsoleApp2/bin/Debug/net6.0/Console.App2
+/home/williamevans/Scripts/CSharpProjects/ConsoleApp2/bin/Debug/net6.0/Console.App2.deps.json
+/home/williamevans/Scripts/CSharpProjects/ConsoleApp2/bin/Debug/net6.0/Console.App2.runtimeconfig.json
+/home/williamevans/Scripts/CSharpProjects/ConsoleApp2/bin/Debug/net6.0/Console.App2.dll
+/home/williamevans/Scripts/CSharpProjects/ConsoleApp2/bin/Debug/net6.0/ref/Console.App2.dll
+/home/williamevans/Scripts/CSharpProjects/ConsoleApp2/bin/Debug/net6.0/Console.App2.pdb
+/home/williamevans/Scripts/CSharpProjects/ConsoleApp2/obj/Debug/net6.0/Console.App2.csproj.AssemblyReference.cache
+/home/williamevans/Scripts/CSharpProjects/ConsoleApp2/obj/Debug/net6.0/Console.App2.GeneratedMSBuildEditorConfig.editorconfig
+/home/williamevans/Scripts/CSharpProjects/ConsoleApp2/obj/Debug/net6.0/Console.App2.AssemblyInfoInputs.cache
+/home/williamevans/Scripts/CSharpProjects/ConsoleApp2/obj/Debug/net6.0/Console.App2.AssemblyInfo.cs
+/home/williamevans/Scripts/CSharpProjects/ConsoleApp2/obj/Debug/net6.0/Console.App2.csproj.CoreCompileInputs.cache
+/home/williamevans/Scripts/CSharpProjects/ConsoleApp2/obj/Debug/net6.0/Console.App2.dll
+/home/williamevans/Scripts/CSharpProjects/ConsoleApp2/obj/Debug/net6.0/ref/Console.App2.dll
+/home/williamevans/Scripts/CSharpProjects/ConsoleApp2/obj/Debug/net6.0/Console.App2.pdb
+/home/williamevans/Scripts/CSharpProjects/ConsoleApp2/obj/Debug/net6.0/Console.App2.genruntimeconfig.cache
